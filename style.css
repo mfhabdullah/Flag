@@ -1,0 +1,53 @@
+
+.green{
+    background-color: green;
+    width: 500px;
+    height: 250px;
+    box-shadow: 0px 0px 15px 3px black;
+} 
+
+.red{
+    background-color: red;
+    width: 40%;
+    height: 80%;
+    border-radius: 60%;
+    display: flex;
+    position: relative;
+    left: 30%;
+    top: 10%;
+}
+.io{
+    width: 76%;
+    height: 75%;
+    margin: 22px;
+}
+.arg{
+    width: 500px;
+    height: 250px;
+    margin: 2% 0% 0% 0%;
+    box-shadow: 0px 0px 15px 3px black;
+
+
+}
+.rg{
+    width: 60px;
+    height: 60px;
+    margin: 8% 0% 0% 19%;
+    position: absolute;
+}
+.blu{
+    height: 33%;
+    width: 100%;
+    background-color: skyblue;
+}
+.wht{
+    height: 33%;
+    width: 100%;
+    background-color: white;
+
+}
+.blue{
+    height: 33%;
+    width: 100%;
+    background-color: skyblue;
+}
